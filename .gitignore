@@ -2,3 +2,4 @@
 pyHydrabus.egg-info/*
 build/*
 dist/*
+.idea/*

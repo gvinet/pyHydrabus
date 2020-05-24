@@ -14,6 +14,7 @@
 
 from .spi import *
 from .i2c import *
+from .nfc import *
 from .onewire import *
 from .rawwire import *
 from .smartcard import *
